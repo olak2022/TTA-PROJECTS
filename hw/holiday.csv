@@ -1,16 +1,16 @@
-S/N,Destinations,Scores, Star_Rating,Hotels_No,Most_Visited_City,,,,,
-1,Australia,3,4,15,Sydney,,,,,
-2,Bahamas,9,3,12,Nassau,,,,,
-3,Barbados,8,3,10,Bridgetown,,,,,
-4,Brazil,6,3,9,Rio de Janeiro,,,,,
-5,France,4,4,17,Paris,,,,,
-6,Japan,7,3,8,Tokyo,,,,,
-7,Kenya,6,3,7,Nairobi,,,,,
-8,Malaysia,5,3,10,Kuala Lumpur,,,,,
-9,Nigeria,4,3,9,Lagos,,,,,
-10,South Africa,6,3,8,Johannesburg,,,,,
-11,Spain,9,5,13,Barcelona,,,,,
-12,Thailand,6,3,5,Bangkok,,,,,
-13,UAE,7,5,28,Dubai,,,,,
-14,UK,8,3,16,London,,,,,
-15,USA,7,5,25,New York City,,,,,
+Destinations,Scores, Star_Rating,Hotels_No,Most_Visited_City
+Australia,3,4,15,Sydney
+Bahamas,9,3,12,Nassau
+Barbados,8,3,10,Bridgetown
+Brazil,6,3,9,Rio de Janeiro
+France,4,4,17,Paris
+Japan,7,3,8,Tokyo
+Kenya,6,3,7,Nairobi
+Malaysia,5,3,10,Kuala Lumpur
+Nigeria,4,3,9,Lagos
+South Africa,6,3,8,Johannesburg
+Spain,9,5,13,Barcelona
+Thailand,6,3,5,Bangkok
+UAE,7,5,28,Dubai
+UK,8,3,16,London
+USA,7,5,25,New York City
